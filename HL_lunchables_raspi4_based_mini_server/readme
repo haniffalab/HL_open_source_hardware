@@ -1,2 +1,0 @@
-This directory contains 3D printable models for individual units that maybe assembled to form a "micro-cluster" running Docker-swarm.
-Individually, each node is capable of running independent of the cluster unit and provides a the user a friendly environment for learning data analysis.
