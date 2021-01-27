@@ -5,10 +5,10 @@ This repository contains 3D-printable files and software designed and used in th
 ## Additional materials:
 	MP mini pro
 	Ramps1.4
-  RepRap full graphic controller-graphic controller case: (https://www.thingiverse.com/thing:2813298)
+  	RepRap full graphic controller-graphic controller case: (https://www.thingiverse.com/thing:2813298)
 	HW-134 stepper drivers (1/16 stepped)
 	Arduino mega2560
-  Pi3B+
-  Elegoo 3.5inch SPI touch TFT screen 
+  	Pi3B+
+  	Elegoo 3.5inch SPI touch TFT screen 
 	
 
