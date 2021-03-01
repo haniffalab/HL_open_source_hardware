@@ -12,5 +12,4 @@ This repository contains 3D-printable files and software designed and used in th
   	Elegoo 3.5inch SPI touch TFT screen 
 	
 ![alt text](https://github.com/haniffalab/HL_open_source_hardware/blob/main/HL_Bioprinter/20210126_163532.jpg)
-
 ![alt text](https://github.com/haniffalab/HL_open_source_hardware/blob/main/HL_Bioprinter/Screenshot 2021-03-01 at 16.37.50.png)
