@@ -5,4 +5,4 @@ This is a custom-designed orbital shaker used to keep sheroids in suspension. Th
 # Custom parametric platform:
 The design comes with a dual spring-loaded plate-holder by default, howver, a single plateholder or falcon tube attachment is also available.
 
-![alt text](https://github.com/haniffalab/HL_open_source_hardware/blob/main/HL_orbital_shaker/20210127_193724.jpg)
+![alt text](https://github.com/haniffalab/HL_open_source_hardware/blob/main/5_HL_orbital_shaker/20210127_193724.jpg)
