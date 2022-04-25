@@ -11,6 +11,7 @@ Files are available in both Mesh (.stl) and Solid (.DWG) formats. Hardware was p
 Some projects including the custom culture chips were printed on an SLA-based system (FORM3) in bio-compatible Dental-SG resin.
 
 ## Software
+Includes base software and tools written or otherwise assembled for use with various hardware listed in this repo. Some interfacing tools are still in development and thus currently not available on this repo yet.
 Software written for the bio-printer includes a custom MarlinV2 build designed specifically for bio-prionting.
 Additional software and scripts to run environmental feedback via the "pi-control"
 
