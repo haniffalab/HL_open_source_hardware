@@ -4,15 +4,15 @@ The atmospheric monitor unit continually samples atmospheric conditions during e
 
 ### Customisable sensor suite:
 Environmental conditons monitered:
-	•	Relative Humidity
-	•	Particulate matter (2.5um/10um)
-	•	CO2 levels
-	•	Temperature
- - Optional GPS sensor (for outdoor monitering)
+- Relative Humidity
+- Particulate matter (2.5um/10um)
+- CO2 levels
+- Temperature
+- Optional GPS sensor (for outdoor monitering)
 
 ####	Future additions:
-	◦	Volatile gas sensor
-	◦	Geiger Muller tube (Ionising Beta & Gamma radiation)
+- Volatile gas sensor
+- Geiger Muller tube (Ionising Beta & Gamma radiation)
 Parts-list:
 	•	Temp & Humidity sensor: DHT22 (https://www.amazon.co.uk/gp/product/B072391SJV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 	•	Particulate matter sensor: SDS011 Nova (https://www.amazon.co.uk/gp/product/B07D7BL33R/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
