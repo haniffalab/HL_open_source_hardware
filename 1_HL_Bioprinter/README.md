@@ -13,3 +13,5 @@ This repository contains 3D-printable files and software designed and used in th
 	
 ![alt text](https://github.com/haniffalab/HL_open_source_hardware/blob/main/1_HL_Bioprinter/20210126_163532.jpg)
 ![alt text](https://github.com/haniffalab/HL_open_source_hardware/blob/main/1_HL_Bioprinter/organoids.png)
+https://github.com/haniffalab/HL_open_source_hardware/blob/main/1_HL_Bioprinter/media5.mp4
+
