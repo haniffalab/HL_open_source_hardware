@@ -4,5 +4,5 @@ This directory contains plans and 3D printable parts for the contruction of a la
 
 The prototype contruction contsists of sealed MDF panels, off-the-shelf hepa filter catridges and a in-line ducted extractor fan. 
 
-![alt text](https://github.com/haniffalab/HL_open_source_hardware/blob/main/HL_Laminar_flow_hepa_hood/Screenshot%202021-01-27%20at%2019.49.07.png)
-![alt text](https://github.com/haniffalab/HL_open_source_hardware/blob/main/HL_Laminar_flow_hepa_hood/20201021_211304.jpg)
+![alt text](https://github.com/haniffalab/HL_open_source_hardware/blob/main/8_HL_Laminar_flow_hepa_hood/Screenshot%202021-01-27%20at%2019.49.07.png)
+![alt text](https://github.com/haniffalab/HL_open_source_hardware/blob/main/8_HL_Laminar_flow_hepa_hood/20201021_211304.jpg)
