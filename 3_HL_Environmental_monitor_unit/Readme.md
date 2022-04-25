@@ -18,3 +18,8 @@ Environmental conditons monitered:
 - Temp & Humidity sensor: DHT22 (https://www.amazon.co.uk/gp/product/B072391SJV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - Particulate matter sensor: SDS011 Nova (https://www.amazon.co.uk/gp/product/B07D7BL33R/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - NDIR CO2 sensor: MH-Z14A (https://uk.banggood.com/NDIR-CO2-Sensor-MH-Z14A-PWM-NDIR-Infrared-Carbon-Dioxide-Sensor-Module-Serial-Port-0-5000PPM-Controller-p-1248270.html?utm_source=googleshopping&utm_medium=cpc_organic&gmcCountry=GB&utm_content=minha&utm_campaign=minha-gbg-en-pc&currency=GBP&cur_warehouse=CN&createTmp=1&utm_source=googleshopping&utm_medium=cpc_us&utm_campaign=jeff-aceng-pmax-ukbg-allcat-uk-220412&utm_content=jeff&ad_id=&gclid=Cj0KCQjwgYSTBhDKARIsAB8KuktVqfRZRFKVwZRMjJ61VlwqIAv_xaEToLfjVBW2VdAokOqwlBBns9EaArUhEALw_wcB)
+
+![20220422_152259](https://user-images.githubusercontent.com/46449131/165091156-afa01c68-ce66-4e17-a603-f21f75f2ba3e.jpg)
+![20220422_152240](https://user-images.githubusercontent.com/46449131/165091159-43c87510-6fa8-4a57-a539-a83a821d6bbb.jpg)
+![20220422_152232](https://user-images.githubusercontent.com/46449131/165091163-f7c38e24-e38d-45c7-839e-d64be4ffe292.jpg)
+![20220422_152217](https://user-images.githubusercontent.com/46449131/165091165-5d5b1455-8a9c-4c69-b683-4dab36c04af5.jpg)
