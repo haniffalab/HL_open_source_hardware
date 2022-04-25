@@ -1,4 +1,6 @@
-## Micrsopy Server
+## Micrsopy Server ##
+### Edit: This CAD design is deprecated, please view the "HL_lunchables_raspi4_based_mini_server" units and print a single case for this project
+  - Updates: The newer CAD designs include doors for port access, direct access to the SSD bay and compatibility with the HL server rack
 
 - Raspi-4 4gb
 - tiling achived using open seadragon
