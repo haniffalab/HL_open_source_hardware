@@ -1,0 +1,22 @@
+#! /bin/sh
+# kill prior deepzoom
+ps -ef | grep deepzoom | awk '{print $2}' | xargs kill -9
+# kill prior ngrok
+#ps -ef | grep ngrok | awk '{print $2}' | xargs kill -9
+
+#Start flask locally
+nohup python3 ~/image_server/openslide-python/examples/deepzoom/deepzoom_multiserver.py ~/../../media/pi/LACIE_SHARE/image_server &
+
+#start ngrok hosting
+~/image_server/ngrok start --all | cat &
+sleep 10
+#curl --silent --show-error http://127.0.0.1:4040/api/tunnels | sed -nE 's/.*public_url":"https:..([^"]*).*/\1/p' > url.txt
+
+curl -s localhost:4040/api/tunnels | jq -r .tunnels[].public_url > url.txt
+
+#monitor ngrok and restart if it fails
+while true; do
+  ps --no-headers -C ngrok || ps -ef | grep ngrok | awk '{print $2}' | xargs kill -9 || ~/image_server/ngrok start --all | cat &
+  sleep 5m
+done
+
