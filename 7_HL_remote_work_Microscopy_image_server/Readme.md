@@ -1,5 +1,5 @@
 ## Microscopy Server ##
-This directory contains 3D printable files and scripts used to create a web-accesible microscopy tiling image portal for remote work access.
+This directory contains 3D printable files and scripts used to create a light-weight, portable, web-accesible microscopy tiling image portal for remote work access.
 This work was incredibly important to allow clinicians and fellow biologists to access imaging data in an interactive manner during the COVID lockdowns. It allowed pathologists and dermatologists to score Squamous cell Carcinoma slides, biologists to access and analyse Flourescence imgaing data and IHC data.
 
 ### Edit: This CAD design is deprecated, please view the "HL_lunchables_raspi4_based_mini_server" units and print a single case for this project
