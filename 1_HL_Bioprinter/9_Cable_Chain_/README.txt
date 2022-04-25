@@ -1,23 +1,7 @@
-                   .:                     :,                                          
-,:::::::: ::`      :::                   :::                                          
-,:::::::: ::`      :::                   :::                                          
-.,,:::,,, ::`.:,   ... .. .:,     .:. ..`... ..`   ..   .:,    .. ::  .::,     .:,`   
-   ,::    :::::::  ::, :::::::  `:::::::.,:: :::  ::: .::::::  ::::: ::::::  .::::::  
-   ,::    :::::::: ::, :::::::: ::::::::.,:: :::  ::: :::,:::, ::::: ::::::, :::::::: 
-   ,::    :::  ::: ::, :::  :::`::.  :::.,::  ::,`::`:::   ::: :::  `::,`   :::   ::: 
-   ,::    ::.  ::: ::, ::`  :::.::    ::.,::  :::::: ::::::::: ::`   :::::: ::::::::: 
-   ,::    ::.  ::: ::, ::`  :::.::    ::.,::  .::::: ::::::::: ::`    ::::::::::::::: 
-   ,::    ::.  ::: ::, ::`  ::: ::: `:::.,::   ::::  :::`  ,,, ::`  .::  :::.::.  ,,, 
-   ,::    ::.  ::: ::, ::`  ::: ::::::::.,::   ::::   :::::::` ::`   ::::::: :::::::. 
-   ,::    ::.  ::: ::, ::`  :::  :::::::`,::    ::.    :::::`  ::`   ::::::   :::::.  
-                                ::,  ,::                               ``             
-                                ::::::::                                              
-                                 ::::::                                               
-                                  `,,`
+# Cable chain
 
+This cable cahin was directly taken from johnniewhiskey on thingiverse (https://www.thingiverse.com/thing:2920060) and used under the Creative Commons - Attribution license.
 
-https://www.thingiverse.com/thing:2920060
-Ender 3 Cable Chain  by johnniewhiskey is licensed under the Creative Commons - Attribution license.
 http://creativecommons.org/licenses/by/3.0/
 
 # Summary
