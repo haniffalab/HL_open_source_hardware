@@ -4,7 +4,7 @@ This repository contains the open source designs for our ongoing multi-organoid 
 The Organ-on-chip designs are still in eartly prototyping phases and are currently manufactured as stated below:
 - Positive master subtrate is designed for and manufactured with an SLA 3D printer (FORM3 with dental-sg resin)
 - Subtrates are cured in UV at 60degrees for >2 hours and extensively washed in Isopropyl alcohol.
-- PDMS-PEG block co-polymer is cast on the subtrate resulting in negative imprints of subtrate milli-structures (perfusiuon channels and wells)
+- Surface hydrophillic PDMS-PEG block co-polymer is cast on the subtrate resulting in negative imprints of subtrate milli-structures (perfusiuon channels and wells). The use of block copolymers removes the requirement for time-sensitive introduction of oxidative surface modifications on the PDMS.
 - Bio-printer is utilised to lay cell-laden inks in defined layers
 - Chips are perfused with a syringe pump contianing media. 
 
