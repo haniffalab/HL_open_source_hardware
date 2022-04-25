@@ -27,24 +27,36 @@ Additional software and scripts to run environmental feedback via the "pi-contro
 - The system runs on a 64-bit Rasbian image and interfaces with the HL-bio_printer via the ethernet port. 
 
 ### 3_HL_Environmental_monitor_unit
-- 
+- This directory contains 3D printable CAD files for the design and assembly of an encased atmospheric environmental monitering unit which users may interface directly with the HL_robot_controller unit via the GPIO access. The atmospheric monitor unit continually samples atmospheric conditions during experiments enabling users to directly interface the unit to any running experimental process or simply to keep track of technical variables introduced by atmospheric conditions (heat/humidity etc). 
+- The Encironmental monitoring unit presensts users a fully customisable platform for monitering experiments and can be directly interfaced with the HL-robotic_controller unit.
+
 ### 4_HL_prototype_micro_fluidic_culture_chip
-- 
+- This repository contains the open source designs for our ongoing multi-organoid culture chambers used to culture multiple organoids and perform automated perfusion + media changes.
+
 ### 5_HL_orbital_shaker
-- 
+- This is a custom-designed orbital shaker used to keep sheroids in suspension whilst cultured on a well-plate system. The speed controller allows up to 200RPM agitation and is suitable for both culture and light use as a chemical agitator.
+
+
 ### 6_HL_lunchables_raspi4_based_mini_server
-- 
+- This directory contains 3D printable models for individual units that maybe assembled to form a "micro-cluster" running Docker-swarm. Each unit is designed to accept a PI4 unit, a PI4 compute unit, or a lattepanda alpha SBC.
+
+- Individually, each node is capable of running independent of the cluster unit and provides a the user an Jupyterlab IDE environment for learning data analysis.
+
 ### 7_HL_remote_work_Microscopy_image_server
-- 
+- This directory contains 3D printable files and scripts used to create a light-weight, portable, web-accesible microscopy tiling image portal for remote work access. This work was incredibly important to allow clinicians and fellow biologists to access imaging data in an interactive manner during the COVID lockdowns. 
+- It allowed pathologists and dermatologists to score Squamous cell Carcinoma slides, biologists to access and analyse Flourescence imgaing data and IHC data. Furthermore it provided a platform for tunneled data sharing and external tunnel access amongst data scientists of the Haniffalab and collaborators when such resources were still unavailable.
+
 ### 8_HL_Laminar_flow_hepa_hood
-- 
+- This directory contains plans and 3D printable parts for the contruction of a laminar flow, hepa-filtered hood for general purpose work. This Cabinet was designed in response to the call for production of faceshields and associated PPE during the 2020 COVID19 crisis. The cabinet was used primarily for the safe-handling and sterilisation of 3D-printed PPE units prior to distribution.
+
 ### 9_HL_covid_ear_saver_v1.1
-- 
+- A simple 3D printable CAD design for a "around the head" mask-hook or 'ear-saver'.
+
 ### 10_HL_various_lab_tube_racks
-- 
+- CAD files for variuous 3D printable tube-racks
 ### 11_HL_accessory_cad_models
-- 
+- This directory contains CAD models of accessories which may be 3D printed with an SLA 3D printer, these models may be either used as-is or used in the design process of your prototypes.
 ### 12_HL_peristaltic_pump_unit
-- 
+- 3D printable CAD models of a peristaltic pump which may be interfaced with the HL_robotic_controller or the HL_bio_printer control units to provide perfusion to the micro_fluidic_culture_chip systems.
 
 
