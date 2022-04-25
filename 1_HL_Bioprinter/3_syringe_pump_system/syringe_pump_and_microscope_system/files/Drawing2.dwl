@@ -1,3 +1,0 @@
-User
-DESKTOP-BRJ9OOG 
-26 September 2018  23:03:12
