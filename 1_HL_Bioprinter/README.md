@@ -10,7 +10,8 @@ This repository contains 3D-printable files and software designed and used in th
 	Arduino mega2560
   	Pi3B+
   	Elegoo 3.5inch SPI touch TFT screen 
-## 
+## Notes:
+	- This system runs on a custom flvaour of the Marlin firmware interfacing with an octoprint instance on the Raspberry PI computer. The system may be run indepdently of an external controller or be interfaced with custom print programs and/or the HL-robotic controller interface for further sensor integration. 
 	
 ![alt text](https://github.com/haniffalab/HL_open_source_hardware/blob/main/1_HL_Bioprinter/20210126_163532.jpg)
 ![alt text](https://github.com/haniffalab/HL_open_source_hardware/blob/main/1_HL_Bioprinter/2_mp_mini_3d_model/asemlbleed.png)
